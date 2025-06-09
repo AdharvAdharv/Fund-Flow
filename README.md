@@ -4,6 +4,16 @@ FundFlow is a decentralized crowdfunding platform built on Ethereum blockchain. 
 
 ---
 
+## 🎥 Project Demo
+
+Check out a quick demo video showcasing the FundFlow platform in action.
+
+👉 [Watch the Demo Video on YouTube Shorts](https://youtube.com/shorts/NiaOX_OOp6E?si=8oJq6zG1KHtvJEXu)
+
+> *This video highlights wallet connection, campaign creation, donations.*
+
+
+
 ## 🚀 Features
 
 - 🔐 Connect your MetaMask wallet to interact with the platform
